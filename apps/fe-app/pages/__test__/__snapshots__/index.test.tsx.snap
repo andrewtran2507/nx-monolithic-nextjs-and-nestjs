@@ -1,0 +1,276 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home UT Should match snapshot of Home page 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+  >
+    <div
+      class="MuiBox-root css-rux501"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-standardInfo MuiAlert-standard css-1jebcok-MuiPaper-root-MuiAlert-root"
+        role="alert"
+      >
+        <div
+          class="MuiAlert-icon css-1ytlwq5-MuiAlert-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit css-1vooibu-MuiSvgIcon-root"
+            data-testid="InfoOutlinedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11,9H13V7H11M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4 20,7.59 20, 12C20,16.41 16.41,20 12,20M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10, 10 0 0,0 12,2M11,17H13V11H11V17Z"
+            />
+          </svg>
+        </div>
+        <div
+          class="MuiAlert-message css-1pxa9xg-MuiAlert-message"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom MuiAlertTitle-root css-yslrua-MuiTypography-root-MuiAlertTitle-root"
+          >
+            Hello 👋
+          </div>
+          This app uses the nx monorepo structure, Next.js and Material UI v5.
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container css-zow5z4-MuiGrid-root"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 css-1osj8n2-MuiGrid-root"
+        >
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-bhp9pd-MuiPaper-root-MuiCard-root"
+          >
+            <img
+              alt="Random image"
+              data-nimg="1"
+              decoding="async"
+              height="480"
+              loading="lazy"
+              src="/_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=1920&q=75"
+              srcset="/_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=1920&q=75 2x"
+              style="color: transparent; max-width: 100%; height: 200px; object-fit: cover;"
+              width="640"
+            />
+            <div
+              class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+            >
+              <div
+                class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+              >
+                CMYK
+              </div>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+              >
+                The CMYK color model (also known as process color, or four color) is a subtractive color model, based on the CMY color model, used in color printing, and is also used to describe the printing process itself.
+              </p>
+            </div>
+            <div
+              class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Share
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Learn More
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 css-1osj8n2-MuiGrid-root"
+        >
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-bhp9pd-MuiPaper-root-MuiCard-root"
+          >
+            <img
+              alt="Random image"
+              data-nimg="1"
+              decoding="async"
+              height="480"
+              loading="lazy"
+              src="/_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=1920&q=75"
+              srcset="/_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=1920&q=75 2x"
+              style="color: transparent; max-width: 100%; height: 200px; object-fit: cover;"
+              width="640"
+            />
+            <div
+              class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+            >
+              <div
+                class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+              >
+                HSL and HSV
+              </div>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+              >
+                HSL (for hue, saturation, lightness) and HSV (for hue, saturation, value; also known as HSB, for hue, saturation, brightness) are alternative representations of the RGB color model
+              </p>
+            </div>
+            <div
+              class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Share
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Learn More
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 css-1osj8n2-MuiGrid-root"
+        >
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-bhp9pd-MuiPaper-root-MuiCard-root"
+          >
+            <img
+              alt="Random image"
+              data-nimg="1"
+              decoding="async"
+              height="480"
+              loading="lazy"
+              src="/_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=1920&q=75"
+              srcset="/_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=1920&q=75 2x"
+              style="color: transparent; max-width: 100%; height: 200px; object-fit: cover;"
+              width="640"
+            />
+            <div
+              class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+            >
+              <div
+                class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+              >
+                RGB
+              </div>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+              >
+                An RGB color space is any additive color space based on the RGB color model. RGB color spaces are commonly found describing the input signal to display devices such as television
+              </p>
+            </div>
+            <div
+              class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Share
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Learn More
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 css-1osj8n2-MuiGrid-root"
+        >
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-bhp9pd-MuiPaper-root-MuiCard-root"
+          >
+            <img
+              alt="Random image"
+              data-nimg="1"
+              decoding="async"
+              height="480"
+              loading="lazy"
+              src="/_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=1920&q=75"
+              srcset="/_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fsource.unsplash.com%2Frandom&w=1920&q=75 2x"
+              style="color: transparent; max-width: 100%; height: 200px; object-fit: cover;"
+              width="640"
+            />
+            <div
+              class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+            >
+              <div
+                class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+              >
+                CIELAB
+              </div>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+              >
+                The CIELAB color space, also referred to as L*a*b*, was intended as a perceptually uniform space, where a given numerical change corresponds to a similar perceived change in color.
+              </p>
+            </div>
+            <div
+              class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Share
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Learn More
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

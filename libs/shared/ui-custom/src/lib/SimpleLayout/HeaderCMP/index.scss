@@ -1,0 +1,48 @@
+.app-bar-header {
+  .btn-menu-item:hover, .active {
+    background-color: rgb(255 242 0 / 30%);
+  }
+
+  .btn-menu-item {
+    line-height: 20px;
+  }
+
+  .divide {
+    border-color: whitesmoke;
+  }
+
+  .child-menu {
+    background-color: #ec8c3ddb;
+
+    .MuiBox-root {
+      margin-left: 125px;
+    }
+  }
+}
+
+.app-drawer {
+  .m-child-item {
+    padding-left: 20px;
+
+    .MuiTypography-root {
+      font-size: 12px;
+    }
+  }
+
+  .m-parent-item {
+    background-color: #ed6c02;
+    color: white;
+
+    .MuiListItemIcon-root {
+      color: #fff;
+    }
+  }
+
+  .active {
+    background-color: rgb(255 242 0 / 30%);
+    .MuiTypography-root, .MuiSvgIcon-root {
+      color: brown;
+    }
+  }
+}
+

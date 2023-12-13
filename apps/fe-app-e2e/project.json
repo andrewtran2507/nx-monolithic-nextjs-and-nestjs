@@ -1,0 +1,26 @@
+{
+  "name": "fe-app-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/fe-app-e2e/src",
+  "targets": {
+    "e2e": {
+      "executor": "@nx/cypress:cypress",
+      "options": {
+        "cypressConfig": "apps/fe-app-e2e/cypress.config.ts",
+        "testingType": "e2e",
+        "devServerTarget": "fe-app:serve"
+      },
+      "configurations": {
+        "production": {
+          "devServerTarget": "fe-app:serve:production"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nx/eslint:lint",
+      "outputs": ["{options.outputFile}"]
+    }
+  },
+  "tags": [],
+  "implicitDependencies": ["fe-app"]
+}
